@@ -59,7 +59,8 @@ def prepare_all(setname):
 if __name__ == '__main__':
     #dataset = 'simpcity'
     #dataset = 'infochimps'
-    dataset = 'ferrari'
+    # dataset = 'ferrari'
+    dataset = 'pacific_booking'
     #dataset = 'mixed'
     prepare_all(dataset)
 

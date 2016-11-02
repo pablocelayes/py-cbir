@@ -2,7 +2,7 @@
 import os
 import sys
 import glob
-import Image
+from PIL import Image
 import math
 from img_hash import avg, update 
 
